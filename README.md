@@ -8,7 +8,7 @@ https://play.rosebud.ai/games/8cbc257e-3062-4fd2-8af5-b6c6ee3928ae
 
 ## Link to deployed repo:
 
-Note: The code used for the chat is specific to the Rosebud platform and therfore will not run in the deployed GitHub link. 
+Note: The code used for the chat is specific to the Rosebud platform and therefore will not run in the deployed GitHub link. 
 
 https://vickysug.github.io/ahmad-joudeh/
 
